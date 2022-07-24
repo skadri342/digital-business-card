@@ -5,7 +5,7 @@ function Interests() {
     return (
         <div>
             <h3 className="interests-header">Interests</h3>
-            <p className="interests-content">Coding. Biking. Soccer. Volleyball. Roadtrips. Sightseeing. Working out. Photography. 
+            <p className="interests-content">Coding. Biking. Anime. Soccer. Volleyball. Roadtrips. Sightseeing. Working out. Photography. 
             Flying drone. I like watermelons. I want to travel more. Music.</p>
         </div>
     )
