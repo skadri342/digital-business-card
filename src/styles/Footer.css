@@ -1,0 +1,13 @@
+.footer-content {
+    height: 64px;
+    background-color: #161619;
+    border-radius: 0px 0px 10px 10px;
+    text-align: center;
+}
+
+.icons {
+    color: #918E9B;
+    font-size: 30px;
+    margin: auto 10px;
+    margin-top: 17px;
+}

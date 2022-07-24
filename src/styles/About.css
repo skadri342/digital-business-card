@@ -1,0 +1,25 @@
+.about-content {
+    width: 246px;
+    margin-left: 35px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10.24px;
+    line-height: 15px;
+    color: #DCDCDC;;
+    margin-top: 0;
+}
+
+.about-header {
+    margin-left: 35px;
+    margin-top: 35px;
+    margin-bottom: 4px;
+
+    font-family: 'Inter';
+    font-style: normal;    
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+
+    color: #F5F5F5;
+}
